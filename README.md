@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+## Management System
+The purpose of this project is to create client management system for a company.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
